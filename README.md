@@ -37,4 +37,4 @@ Sou apaixonado por aprender coisas novas e em meu tempo livre prefiro algo como 
 <code><img  src="https://pablodev.com.br/img-linguagens/css.png"></code>
 <code><img  src="https://pablodev.com.br/img-linguagens/bootstrap.png"></code>
 <code><img  src="https://pablodev.com.br/img-linguagens/photoshop.png"></code>
-<code><img  src="https://pablodev.com.br/img-linguagens/sql.png"></code>
+<code><img  src="https://pablodev.com.br/img-linguagens/sql2.png"></code>
