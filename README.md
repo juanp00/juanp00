@@ -28,10 +28,11 @@ Sou apaixonado por aprender coisas novas e em meu tempo livre prefiro algo como 
 # Linguagens 
 
 <br />
-<code><img  src="https://pablodev.com.br/img-linguagens/wordpress.png"></code>
+<code><img  src="https://pablodev.com.br/img-linguagens/js.png"></code>
 <code><img  src="https://pablodev.com.br/img-linguagens/php.png"></code>
 <code><img  src="https://pablodev.com.br/img-linguagens/html.png"></code>
 <code><img  src="https://pablodev.com.br/img-linguagens/css.png"></code>
 <code><img  src="https://pablodev.com.br/img-linguagens/bootstrap.png"></code>
 <code><img  src="https://pablodev.com.br/img-linguagens/photoshop.png"></code>
 <code><img  src="https://pablodev.com.br/img-linguagens/sql2.png"></code>
+<code><img  src="https://pablodev.com.br/img-linguagens/wordpress.png"></code>
