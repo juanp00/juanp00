@@ -1,4 +1,4 @@
-# Hello World, eu sou o Juan! 💻🌍
+# Olá, eu sou o Juan! 💻🌍
 
 <a target="_blank" href="https://www.linkedin.com/in/juanpdev/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
