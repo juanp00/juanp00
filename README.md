@@ -17,8 +17,7 @@
 </a>
 <br />
 <hr>
-Olá, eu sou o Juan. Sou programador front-end, tenho 22 anos, curso análise e desenvolvimento de sistemas e estou no último semestre.
-Sou apaixonado por aprender coisas novas e em meu tempo livre prefiro algo como video-game, praia, criação de artes no photoshop e edição de vídeos 💙.
+Olá, eu sou o Juan. Sou programador front-end, tenho 22 anos, curso análise e desenvolvimento de sistemas e estou no último semestre. 💙.
 
 - 💻 Programador Front-end.
 - 📚 Análise e Desenvolvimento de Sistemas.
