@@ -17,7 +17,9 @@
 </a>
 <br />
 <hr>
-Olá, eu sou o Juan. Sou programador front-end, tenho 22 anos, curso análise e desenvolvimento de sistemas e estou no último semestre. 💙.
+Meu nome é Juan, tenho 23 anos e sou um programador Front-end super animado com o mundo da tecnologia. Amo criar interfaces incríveis que deixam as pessoas de queixo caído!
+
+No meu perfil do GitHub, você encontrará diversos projetos que demonstram minha paixão e habilidade em criar designs envolventes e experiências digitais incríveis. Meu objetivo é sempre escrever código limpo e organizado, para garantir que os projetos sejam eficientes e confiáveis. 💙.
 
 - 💻 Programador Front-end.
 - 📚 Análise e Desenvolvimento de Sistemas.
