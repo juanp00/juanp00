@@ -17,7 +17,7 @@
 </a>
 <br />
 <hr>
-Meu nome é Juan, tenho 23 anos e sou um programador Front-end super animado com o mundo da tecnologia. Amo criar interfaces incríveis que deixam as pessoas de queixo caído!
+Meu nome é Juan Pablo, tenho 23 anos e sou um programador Front-end super animado com o mundo da tecnologia!
 
 No meu perfil do GitHub, você encontrará diversos projetos que demonstram minha paixão e habilidade em criar designs envolventes e experiências digitais incríveis. Meu objetivo é sempre escrever código limpo e organizado, para garantir que os projetos sejam eficientes e confiáveis. 💙.
 
