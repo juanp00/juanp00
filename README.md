@@ -1,23 +1,23 @@
 # Olá, eu sou o Juan! 💻🌍
 
 <a target="_blank" href="https://www.linkedin.com/in/juanpdev/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5513991576887">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img align="left" alt="Whatsapp" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/juandevcode">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a target="_blank" href="mailto:juan.correiaa@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a target="_blank" href="https://www.facebook.com/pablodevsite">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Facebook" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br />
 <hr>
-Meu nome é Juan Pablo, tenho 23 anos e sou um programador Front-end super animado com o mundo da tecnologia!
+Meu nome é Juan Pablo, tenho 25 anos e sou um programador Front-end super animado com o mundo da tecnologia!
 
 No meu perfil do GitHub, você encontrará diversos projetos que demonstram minha paixão e habilidade em criar designs envolventes e experiências digitais incríveis. Meu objetivo é sempre escrever código limpo e organizado, para garantir que os projetos sejam eficientes e confiáveis. 💙.
 
